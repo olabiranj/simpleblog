@@ -1,7 +1,7 @@
 <?php
-    $_ENV['servername'] = 'localhost';
-    $_ENV['username'] = 'root';
+    $_ENV['servername'] = '';
+    $_ENV['username'] = '';
     $_ENV['password'] = '';
-    $_ENV['db'] = 'blog';
+    $_ENV['db'] = '';
 
     // echo $_ENV['servername'];

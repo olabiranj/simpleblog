@@ -1,0 +1,14 @@
+.shadow {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  /* flex-wrap: wrap; */
+}
+@media (max-width: 575.98px) {
+  .flex {
+    flex-wrap: wrap;
+  }
+}
